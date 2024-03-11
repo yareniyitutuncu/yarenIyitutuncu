@@ -40,9 +40,9 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "John Doe — 3D Portfolio",
-    fullName: "John Doe",
-    email: "johndoe@mail.com",
+    title: "Yaren İyitütüncü — 3D Portfolio",
+    fullName: "Yaren İyitütüncü",
+    email: "elifyareniyitutuncu@gmail.com",
   },
   hero: {
     name: "Yaren İyitütüncü",
@@ -67,7 +67,7 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
+      content: `I'm a skilled software developer with experience in HTML and
       JavaScript, and expertise in frameworks like React, Node.js, and
       Three.js. I'm a quick learner and collaborate closely with clients to
       create efficient, scalable, and user-friendly solutions that solve
